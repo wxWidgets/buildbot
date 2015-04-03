@@ -1,0 +1,10 @@
+builds/
+public_html/
+templates/
+buildbot.tac
+http.log
+twistd.log
+twistd.pid
+passwd.cfg
+robots.txt
+state.sqlite
