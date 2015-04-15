@@ -10,7 +10,7 @@ running at http://buildbot.tt-solutions.com/wx/.
 Secret Passwords
 ----------------
 
-The master configuration file includes `passwd.py` which is supposed to
+The master configuration file includes `passwd.cfg` which is supposed to
 contain the following information:
 ```py
 slaves = {
