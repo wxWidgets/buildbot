@@ -8,3 +8,5 @@ twistd.pid
 passwd.cfg
 robots.txt
 state.sqlite
+state.sqlite-shm
+state.sqlite-wal
