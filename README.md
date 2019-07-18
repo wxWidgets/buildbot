@@ -1,3 +1,6 @@
+*THIS REPOSITORY IS OBSOLETE, BUILDBOT IS NOT USED ANY LONGER*
+==============================================================
+
 Buildbot Configuration for wxWidgets
 ====================================
 
